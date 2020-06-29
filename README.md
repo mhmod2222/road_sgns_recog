@@ -1,1 +1,1 @@
-# road_sgns_recog
+# road signs recognition using modified LeNet
