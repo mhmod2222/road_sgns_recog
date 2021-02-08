@@ -1,1 +1,1 @@
-# road signs recognition using modified LeNet
+# road signs recognition using LeNet
